@@ -5,5 +5,7 @@ WELCOME TO LEARNING SERIES
 2. DOCKER
 3. K8
 4. AI
-5. Agentic
+      5. Agentic
+      6. RAG 
+      7. LLM 
  
